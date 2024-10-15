@@ -1,11 +1,7 @@
 Name: SWAMINI BHOR
-
 Company: CODTECH IT SOLUTIONS
-
 ID: CT08DS8895
-
 Domain: Web Development
-
 Duration: 5th Octomber to 5th November 2024
 
 Overview of Project-
